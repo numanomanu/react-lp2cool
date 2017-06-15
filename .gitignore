@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+yarn-error.log
+.DS_Store
+Thumbs.db
+bundle.js
+*~
+www/js/*

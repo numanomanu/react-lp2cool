@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "react",
+    "es2015",
+    "stage-0"
+  ],
+  "passPerPreset": true,
+  "plugins": [
+    "lodash",
+    "syntax-flow",
+    "transform-flow-strip-types",
+    "transform-node-env-inline",
+    "transform-decorators-legacy",
+    "transform-class-properties",
+    "transform-inline-environment-variables",
+    "babel-plugin-espower",
+  ]
+}
